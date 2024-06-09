@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/riya-mishra-a9781b252](https://www.linkedin.com/in/riya-mishra-a9781b252)
 
-- 💬 Ask me about **Frontend developer**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **mriya0619@gmail.com**
 
