@@ -58,15 +58,6 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="60" height="60"/>
   </a>
-  <a href="https://www.turbo.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Borland_C%2B%2B_logo.png" alt="turbo c++" width="60" height="60"/>
-  </a>
-  <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank" rel="noreferrer">
-    <img src="https://www.oracle.com/a/ocom/img/hp11-intl-sql-developer.png" alt="oracle workbench" width="60" height="60"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Database_management_system" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/344/external-database-data-science-wanicon-lineal-color-wanicon.png" alt="adbms" width="60" height="60"/>
-  </a>
 </p>
 <h3 align="left">Frameworks & Libraries:</h3>
 <p align="left">
