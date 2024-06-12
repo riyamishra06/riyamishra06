@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
-🌱 I’m currently learning React JS, Redux
-👨‍💻 All of my projects are available on LinkedIn
-💬 Ask me about Coding
-📫 How to reach me mriya0619@gmail.com
+🌱 I’m currently learning React JS, Redux <br>
+👨‍💻 All of my projects are available on LinkedIn <br>
+💬 Ask me about Coding <br>
+📫 How to reach me mriya0619@gmail.com 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
