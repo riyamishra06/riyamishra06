@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyamishra06&label=Profile%20views&color=0e75b6&style=flat" alt="riyamishra06" /> </p>
 <div align="center">
-  <img src="https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="coding girl gif" width="400" height="300">
+  <img src="[https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw17p9EdXQixNW80YFGMVgLF&ust=1718297230552000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDlyJTC1oYDFQAAAAAdAAAAABAJ)" alt="coding girl gif" width="400" height="300">
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/riya-mishra-a9781b252" target="_blank">
